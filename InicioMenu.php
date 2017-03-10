@@ -40,7 +40,7 @@
 
 
 <div id ="rodape" >
-        <h4 id="sobre">Trabalho de Redes II  |  &copy 2017 &nbsp &nbsp &nbsp Feito por:</h4>
+        <h4 id="sobre">Trabalho de Redes II  |  &copy 2017 &nbsp Feito por:</h4>
         <div id="imggrupo">
             <img class="imgrodape" src="_imagens/Helsner.png" alt="Helsner Siqueira"  />
             <img class="imgrodape" src="_imagens/Marcos.png" alt="Marcos Antônio" />
